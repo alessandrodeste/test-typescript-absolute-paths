@@ -3,7 +3,7 @@ import './App.css';
 
 import logo from './logo.svg';
 
-import MyComp from './MyComp';
+import MyComp from 'src/MyComp';
 
 class App extends React.Component {
   public render() {
