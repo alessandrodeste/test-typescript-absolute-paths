@@ -1,4 +1,4 @@
-# Typescript project to test absolute paths
+# Testing typescript project with absolute paths
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
